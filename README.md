@@ -15,7 +15,7 @@
 ## 2.需要更改的配置：
 ### 1.laic20022/data/path.py 中的路径
 ### 2.laic2022/model/path.py中的路径
-### 3.需要把预训练模型文件夹放入model/bert文件夹中
+### 3.需要把预训练模型文件夹放入model/bert文件夹中，本模型使用预训练模型下载地址https://gitcode.net/mirrors/ymcui/chinese-bert-wwm?utm_source=csdn_github_accelerator
 ### 4.train.py中的文件路径需要更改
 ### 5.train_helper.py中可以增加评价指标，以及绘制图标
 ### 6.本模型训练只是用了初赛数据集，建议可以把初赛和复赛数据集合在一起一块训练。
